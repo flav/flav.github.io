@@ -1,0 +1,70 @@
+==================================================================
+https://keybase.io/flav
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://flaviodacosta.com
+  * I am flav (https://keybase.io/flav) on keybase.
+  * I have a public key with fingerprint AB19 BA6B B702 12C6 952B  39B5 0326 BA4E 7903 64E5
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "ab19ba6bb70212c6952b39b50326ba4e790364e5",
+            "host": "keybase.io",
+            "key_id": "0326BA4E790364E5",
+            "uid": "44ec24620b34a38180136679da5e8000",
+            "username": "flav"
+        },
+        "service": {
+            "hostname": "flaviodacosta.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1397792164,
+    "expire_in": 157680000,
+    "prev": "dbbdb59c37a07dd44add052d14f7bc74152823af9009f0d9303598741eb6f6c9",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+Comment: GPGTools - https://gpgtools.org
+
+owGbwMvMwMX4yUal9fONGcsYTx/4nMQQHDB3U7VSUn5KpZJVtVJ2KphKy8xLTy0q
+KMrMK1GyUkpMMrRMSjRLSjI3MDI0SjazNDVKMrZMMjUwNjJLSjRJNbc0MDYzSTVV
+0lHKyC8G6QAak5RYnKqXmQ8UA3LiM1OAoiD1To4mrhD1riD1pWAJE5PUZCMTMyOD
+JGOTRGMLQwsDQ2MzM3PLlETTVAsDAwOQwuLUorzE3FSg6rScxDKlWh0loEhZZnIq
+yL0ga5FkM/NTEpOBQol6yfm5QM0FRfkl+cn5OUDpjJKSAiuQ7pLKApDy8tSkeKhB
+8UmZeSlAjwM1lKUWFWfm5ylZGQJVJpdkgkw2NLY0N7c0MjQz0VFKrSjILEqNzwSp
+MDU3A7nRAGRNahnQyJSkpJQkU8tkY/NEA/OUFBOTxJQUA1OjFEOTNPOkZHMTQ1Mj
+CyPjxDRLAwPLNIMUS2MDY1NLC6B4apJZmlmypRLIa4V5+UCzgYaWJKYDzSzOTM9L
+LCktSlWq7WSSYWFg5GJgY2UCxR0DF6cALEZ9lgkwXJuVs/mGu/TK5wwzLtse3ht/
+P/z+NFldNqPnRkd/316+S7eom/c1Y51D03ae2HMeHxcyJO6Y7HGb/UaPVvuyaeZO
+MyZotk9y8OmRXtC5QKbN4JrryhPb+hoNebdrnnZt/3VA6Qf3YQMzwfy+T5dM9mY0
+8+5a6ByYd6yT4WnE3H9hrPqvu3+mpNxi+B2xMSB9vrPk1/zZD+b+j3Jje7Pz+R2F
+RCuXk1K/ZS+ufTQxcX/jYd4XB3nO3N7DM/mUAa/T0gMq16arvPjBkvH4vslCaaE/
+27p2nLm1T8dEYBP7ky9nhM/axpuznJB7ePZ/n1LmFO6My4FRbGono/aY/k2Qfzer
+jtvJn608rmgW993Dan8PiBmlyv++nurF/ifLv9c6/v2i69fj5pf4H/nYWlmy5aqY
+vkuipIbGc3nRHReCLP/ejrjf8YJPQps1tvluzEfraveEI9Wf6pqDW+9LpBU2dS6O
+nvYxUP2Ul+CJbxrLlsqtUdm7UItBz/Q21891m+rC+e9OX7Kuxzw0ONd0TVZRcfD5
+oNK8Ha65TbkRUgXrp4Ys+2W/a/d8jiUNdwsv9s1ZcU+EteC30L7miWn7C1/95ua3
+SN50yrWC9/rVmYFN6lsT0+/fydfu2mT0KObHvZvTmlTUT3O15p1T3LA+cknWwpMN
+knkVD3ZlyXO6vPl2Xc4x7VaxS/iEJaIGobP/NajdDZk9j1Pk4XnrW3YrAA==
+=WSFC
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/flav
+
+==================================================================
