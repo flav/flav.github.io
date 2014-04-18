@@ -1,0 +1,54 @@
+
+body {
+  color: #fff;
+  background-color: #000;
+  text-shadow: 0 1px 3px rgba(0,0,0,.5);
+
+  background: url(/assets/images/canopy.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.container {
+  display: table;
+  width: 100%;
+  height: 100%; /* For at least Firefox */
+  min-height: 100%;
+}
+
+
+.row {
+  border: 1px solid white;
+  display: table-cell;
+  vertical-align: middle;
+}
+.cover-container {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.site-wrapper {
+  display: table;
+  width: 100%;
+  height: 100%; /* For at least Firefox */
+  min-height: 100%;
+}
+.site-wrapper-inner {
+  display: table-cell;
+  vertical-align: top;
+}
+.cover-container {
+  margin-right: auto;
+  margin-left: auto;
+}
+/* Padding for spacing */
+.inner {
+  font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding: 30px;
+}
+hr {
+  width: 17em;
+  margin-left: 0;
+}
